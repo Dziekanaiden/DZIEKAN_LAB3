@@ -2,7 +2,7 @@
 ## By Aiden Dziekan, October 17th 2024
 
 # Tutorial Purpose
-The goal of this tutorial is to guide users through a spatial analysis in R, with a particular focus on understanding spatial autocorrelation. By analyzing  data from the Canadian Census, users will learn how to detect and interpret spatial patterns and variability. This tutorial will provide context, practical R code, and visualizations to support the exploration of spatial autocorrelation across a Canadian City. Methods and concepts from this tutorial can be modified for analyzing other socio-economic indicators, environmental data, or geographic phenomena, enabling users to apply these techniques to a broader range of spatial datasets and research questions.
+The goal of this tutorial is to guide users through a spatial analysis in R, with a particular focus on understanding spatial autocorrelation. By analyzing  data from the Canadian Census, users will learn how to detect and interpret spatial patterns and variability. This tutorial will provide context, practical R code, and visualizations to support the exploration of spatial autocorrelation across a Canadian City. Methods and concepts from this tutorial can be modified, enabling users to apply these techniques to a broader range of spatial datasets and research questions.
 
 To begin, it is important to have an understanding of the concept of spatial autocorrelation and the importance of spatially analyzing Census data:
 # What is Spatial Autocorrelation? 
